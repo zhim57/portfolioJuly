@@ -56,10 +56,10 @@ font-weight: bold;
 } */ 
 
 .contacts{
-padding:25px;
-margin:25px;
-color:blue;
-font-size: 22px;
+/* padding:25px;
+margin:25px; */
+color:gray;
+font-size: 20px;
 
 
 }
@@ -92,6 +92,11 @@ footer{
     margin: 100px auto;
     background: white;
     border-radius: 5px;
+  }
+  .contactJ li{
+      color: #333;
+      font-size: medium;
+
   }
   
   body {
